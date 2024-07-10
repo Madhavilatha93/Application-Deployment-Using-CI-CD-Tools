@@ -1,6 +1,6 @@
 Install the necessary software on the machines using a configuration management tool
 Git workflow has to be implemented
-3. CodeBuild should automatically be triggered once a commit is made to master branch or develop branch.
+CodeBuild should automatically be triggered once a commit is made to master branch or develop branch.
 If a commit is made to master branch, test and push to prod
 If a commit is made to develop branch, just test the product, do not push to prod
 The code should be containerized with the help of a Dockerfile. 
