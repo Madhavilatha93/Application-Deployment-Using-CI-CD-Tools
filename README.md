@@ -1,4 +1,8 @@
 Install the necessary software on the machines using a configuration management tool
+
+
+
+
 Git workflow has to be implemented
 CodeBuild should automatically be triggered once a commit is made to master branch or develop branch.
 If a commit is made to master branch, test and push to prod
